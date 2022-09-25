@@ -9,5 +9,4 @@ runs:
 
 
 - name: Upload Episode from YouTube To Anchor.Fm
-  uses: Schrodinger-Hat/youtube-to-anchorfm@v1.0.3
-
+uses: Schrodinger-Hat/youtube-to-anchorfm@v2.0.0
